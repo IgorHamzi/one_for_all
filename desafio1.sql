@@ -137,6 +137,7 @@ VALUES
   ('Wouldnt It Be Nice', '136', '10'),
   ('You Make Me Feel So', '83', '10')
   ('She Knows', '244', '3'),
+  ('Without My Streets', '176', '5'),
 
 INSERT INTO SpotifyClone.reproductions (user_id, song_id, reproduction_date)
 VALUES
