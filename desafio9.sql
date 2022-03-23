@@ -1,5 +1,5 @@
 SELECT 
-	COUNT(reproductions.reproductions_id) AS quantidade_musicas_no_historico
+	COUNT(reproductions.reproduction_date) AS quantidade_musicas_no_historico
 FROM 
 	SpotifyClone.user AS user
 JOIN 
