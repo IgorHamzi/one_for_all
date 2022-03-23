@@ -1,6 +1,6 @@
 SELECT 
 	artists.name AS artista,
-    albums.name AS albums
+    albums.name AS album
 FROM 
 	SpotifyClone.albums AS albums
 JOIN 
