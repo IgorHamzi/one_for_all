@@ -4,7 +4,7 @@ SELECT
 FROM 	
 	SpotifyClone.songs AS songs
 JOIN 
-	SpotifyClone.reproductions AS reproductions ON reproductions.song_id = songs.songs_id
+	SpotifyClone.reproductions AS reproductions ON reproductions.song_id = songs.song_id
 GROUP BY 
 	songs.name 
 ORDER BY 
