@@ -1,8 +1,8 @@
 SELECT
-	CAST((ROUND(MIN(plans.value), 2)) AS DECIMAL(12,2)) AS faturamento_minimo,
-    CAST((ROUND(MAX(plans.value), 2)) AS DECIMAL(12,2)) AS faturamento_maximo,
-    CAST((ROUND(AVG(plans.value),2)) AS DECIMAL(12,2)) AS faturamento_medio,
-    CAST((ROUND(SUM(plans.value), 2)) AS DECIMAL(12,2)) AS faturamento_total
+	(ROUND(MIN(plans.value), 2)) AS faturamento_minimo,
+    (ROUND(MAX(plans.value), 2)) AS faturamento_maximo,
+    (ROUND(AVG(plans.value),2)) AS faturamento_medio,
+    (ROUND(SUM(plans.value), 2)) AS faturamento_total
 FROM
 	SpotifyClone.user AS user
 JOIN
