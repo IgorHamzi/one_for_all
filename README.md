@@ -1,13 +1,33 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## :information_source: One for All
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Projeto desenvolvido para consolidar o conhecimento de Funções SQL, JOINs e Normalização. Banco de dados utilizado: MySQL.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+## :rocket: Stack utilizada
+
+* **Front-end:** MySQL, Docker
+
+---
+
+## :link: Habilidades desenvolvidas
+
+* Entender o que são bancos de dados
+* Criar condicionais no SQL usando IF e CASE ;
+* Manipular strings no SQL;
+* Usar as diversas funções matemáticas do MySQL ;
+* Extrair informações específicas sobre datas de uma tabela;
+* Utilizar as funções de agregação AVG , MIN , MAX , SUM e COUNT ;
+* Exibir e filtrar dados de forma agrupada com GROUP BY e HAVING .
+* Utilizar INNER JOIN para combinar dados de duas ou mais tabelas
+* Utilizar LEFT JOIN e RIGHT JOIN para combinar dados de duas ou mais tabelas
+* Utilizar SELF JOIN para fazer join de uma tabela com ela própria Modelar um banco de dados;
+* Identificar entidades , atributos e relacionamentos ;
+* Construir um diagrama entidade-relacionamento (diagrama ER);
+* Criar um banco de dados;
+* Criar e modelar tabelas com base em um diagrama ER;
+* Normalizar o banco de dados, seguindo as Formas Normais .
+
+---
+
+
+### Projeto realizado no módulo de Back-End do Curso de Desenvolvimento WEB da TRYBE.
